@@ -1,3 +1,9 @@
+#####################################################################
+#CalculPi
+#02/01/2017
+#Jo
+#####################################################################
+
 def table(nb, depart, arrive):
     while depart != arrive:
         print depart, "fois", arrive, "est egale a", depart * arrive
