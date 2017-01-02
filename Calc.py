@@ -14,7 +14,7 @@ restart = "Voulez continuez?oui/non"
 rep = 0
 while rep < 100:
     print "\n CalculPi!"
-    print "\n Faites ton choix !"
+    print "\n Fait ton choix !"
     print "\n 1.Multiplication \n 2.Addition \n 3.Soustraction \n 4.Division"
 
     choix = input()
